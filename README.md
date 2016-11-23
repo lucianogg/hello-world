@@ -1,4 +1,5 @@
 # hello-world
-This is a Hello World repository
+This is a Hello World supository
+Hey guys, youall ok?
 
-Hey guys, yall ok?
+So, this is the thing: Is GitHub useful?
